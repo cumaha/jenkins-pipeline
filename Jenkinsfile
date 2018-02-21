@@ -1,5 +1,5 @@
 def CONTAINER_NAME="jenkins-pipeline"
-def CONTAINER_TAG="latest"
+def CONTAINER_TAG="BUILD_NUMBER"
 def DOCKER_HUB_USER="hakdogan"
 def HTTP_PORT="8090"
 
